@@ -1,0 +1,763 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR - TRT 1 HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/TRT_1.png" group-title="AS | TURKISH | ULUSAL",TR - TRT 1 HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39774
+#EXTINF:-1 tvg-id="" tvg-name="TR - TRT 2 HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/TRT_2.png" group-title="AS | TURKISH | ULUSAL",TR - TRT 2 HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/65150
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="TR - SHOW HD" tvg-logo="http://logo.panel.cx/logo/TURKIYE/SHOWHD.png" group-title="AS | TURKISH | ULUSAL",TR - SHOW HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39772
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="TR - KANAL D HD" tvg-logo="http://logo.panel.cx/logo/TURKIYE/KANALD.png" group-title="AS | TURKISH | ULUSAL",TR - KANAL D HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39770
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR - ATV HD" tvg-logo="http://logo.panel.cx/logo/TURKIYE/ATVHD.png" group-title="AS | TURKISH | ULUSAL",TR - ATV HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39768
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="TR - STAR HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/star-tv.png" group-title="AS | TURKISH | ULUSAL",TR - STAR HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39766
+#EXTINF:-1 tvg-id="fox.tr" tvg-name="TR - FOX HD" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/FOX.png" group-title="AS | TURKISH | ULUSAL",TR - FOX HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39764
+#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-name="TR - BEYAZ HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/BEYAZ-HD.png" group-title="AS | TURKISH | ULUSAL",TR - BEYAZ HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/65149
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="TR - TV 8 HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/Tv-8.png" group-title="AS | TURKISH | ULUSAL",TR - TV 8 HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39762
+#EXTINF:-1 tvg-id="tv85.tr" tvg-name="TR - TV 8.5 HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/tv8.5.png" group-title="AS | TURKISH | ULUSAL",TR - TV 8.5 HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39758
+#EXTINF:-1 tvg-id="tlc.tr" tvg-name="TR - TLC" tvg-logo="http://logo.panel.cx/logo/TURKIYE/TLC.png" group-title="AS | TURKISH | ULUSAL",TR - TLC
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39707
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="TR - KANAL 7 HD" tvg-logo="http://logo.panel.cx/logo/TURKIYE/KANAL7EUROPA.png" group-title="AS | TURKISH | ULUSAL",TR - KANAL 7 HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39754
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR - TRT 4K" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/trt4k.png" group-title="AS | TURKISH | ULUSAL",TR - TRT 4K
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/65148
+#EXTINF:-1 tvg-id="yabantv.tr" tvg-name="TR - YABAN TV HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/Yaban_tv.png" group-title="AS | TURKISH | ULUSAL",TR - YABAN TV HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/195540
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR - TRT 1 HD PLUS" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/TRT_1.png" group-title="AS | TURKISH | ULUSAL",TR - TRT 1 HD PLUS
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39773
+#EXTINF:-1 tvg-id="" tvg-name="TR - TRT 2 HD PLUS" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/TRT_2.png" group-title="AS | TURKISH | ULUSAL",TR - TRT 2 HD PLUS
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/65147
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="TR - SHOW HD PLUS" tvg-logo="http://logo.panel.cx/logo/TURKIYE/SHOWHDPLUS.png" group-title="AS | TURKISH | ULUSAL",TR - SHOW HD PLUS
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39771
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="TR - KANAL D HD PLUS" tvg-logo="http://logo.panel.cx/logo/TURKIYE/KANALDHDPLUS.png" group-title="AS | TURKISH | ULUSAL",TR - KANAL D HD PLUS
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39769
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR - ATV HD PLUS" tvg-logo="http://logo.panel.cx/logo/TURKIYE/ATVHDPLUS.png" group-title="AS | TURKISH | ULUSAL",TR - ATV HD PLUS
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39767
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="TR - STAR HD PLUS" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/STAR.png" group-title="AS | TURKISH | ULUSAL",TR - STAR HD PLUS
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39765
+#EXTINF:-1 tvg-id="fox.tr" tvg-name="TR - FOX HD PLUS" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/FOX.png" group-title="AS | TURKISH | ULUSAL",TR - FOX HD PLUS
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39763
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="TR - BEYAZ HD PLUS" tvg-logo="http://logo.panel.cx/logo/TURKIYE/BEYAZHDPLUS.png" group-title="AS | TURKISH | ULUSAL",TR - BEYAZ HD PLUS
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39760
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="TR - TV 8 HD PLUS" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/Tv-8.png" group-title="AS | TURKISH | ULUSAL",TR - TV 8 HD PLUS
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39761
+#EXTINF:-1 tvg-id="tv85.tr" tvg-name="TR - TV 8.5 HD PLUS" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/tv8.5.png" group-title="AS | TURKISH | ULUSAL",TR - TV 8.5 HD PLUS
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39759
+#EXTINF:-1 tvg-id="tlc.tr" tvg-name="TR - TLC HD PLUS" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/TLC-HD-PLUS.png" group-title="AS | TURKISH | ULUSAL",TR - TLC HD PLUS
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/65146
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="TR - KANAL 7 HD PLUS" tvg-logo="http://logo.panel.cx/logo/TURKIYE/KANAL7.png" group-title="AS | TURKISH | ULUSAL",TR - KANAL 7 HD PLUS
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39753
+#EXTINF:-1 tvg-id="" tvg-name="TR - 360 TV HD PLUS" tvg-logo="http://logo.panel.cx/logo/TURKIYE/360TVHDPLUS.png" group-title="AS | TURKISH | ULUSAL",TR - 360 TV HD PLUS
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39731
+#EXTINF:-1 tvg-id="" tvg-name="TR - DMAX HD PLUS" tvg-logo="http://logo.panel.cx/logo/TURKIYE/DMAXHDPLUS.png" group-title="AS | TURKISH | ULUSAL",TR - DMAX HD PLUS
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39683
+#EXTINF:-1 tvg-id="a2tv.tr" tvg-name="TR - A2 HD PLUS" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/A2HDPLUS.png" group-title="AS | TURKISH | ULUSAL",TR - A2 HD PLUS
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39757
+#EXTINF:-1 tvg-id="tvem.tr" tvg-name="TR - TEVE 2 HD PLUS" tvg-logo="http://logo.panel.cx/logo/TURKIYE/TEVE2HDPLUS.png" group-title="AS | TURKISH | ULUSAL",TR - TEVE 2 HD PLUS
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39756
+#EXTINF:-1 tvg-id="showmax.tr" tvg-name="TR - SHOW MAX" tvg-logo="http://logo.panel.cx/logo/TURKIYE/SHOWMAX.png" group-title="AS | TURKISH | ULUSAL",TR - SHOW MAX
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39755
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR - TRT 4K PLUS" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/trt4k.png" group-title="AS | TURKISH | ULUSAL",TR - TRT 4K PLUS
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/65145
+#EXTINF:-1 tvg-id="" tvg-name="##### TR - EUROPA #####" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/TURKEY.png" group-title="AS | TURKISH | DIGER",##### TR - EUROPA #####
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39748
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="TR - SHOW TÜRK EUROPA" tvg-logo="http://logo.panel.cx/logo/TURKIYE/SHOWHD.png" group-title="AS | TURKISH | DIGER",TR - SHOW TÜRK EUROPA
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39745
+#EXTINF:-1 tvg-id="" tvg-name="TR - EURO D" tvg-logo="http://logo.panel.cx/logo/TURKIYE/KANALDEUROPA.png" group-title="AS | TURKISH | DIGER",TR - EURO D
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/65135
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR - ATV EUROPA" tvg-logo="http://logo.panel.cx/logo/TURKIYE/ATVEUROPA.png" group-title="AS | TURKISH | DIGER",TR - ATV EUROPA
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39751
+#EXTINF:-1 tvg-id="" tvg-name="TR - EURO STAR" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/star-tv.png" group-title="AS | TURKISH | DIGER",TR - EURO STAR
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/65134
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="TR - KANAL 7 EUROPA" tvg-logo="http://logo.panel.cx/logo/TURKIYE/KANAL7EUROPA.png" group-title="AS | TURKISH | DIGER",TR - KANAL 7 EUROPA
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39747
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="TR - TV 8 INT EUROPA" tvg-logo="http://logo.panel.cx/logo/TURKIYE/TV%208INTEUROPA.png" group-title="AS | TURKISH | DIGER",TR - TV 8 INT EUROPA
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39743
+#EXTINF:-1 tvg-id="trtavaz.tr" tvg-name="TR - TGRT EU" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/tgrteu.png" group-title="AS | TURKISH | DIGER",TR - TGRT EU
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39679
+#EXTINF:-1 tvg-id="kanalb.tr" tvg-name="TR - KANAL AVRUPA" tvg-logo="http://logo.panel.cx/logo/TURKIYE/KANALAVRUPA.png" group-title="AS | TURKISH | DIGER",TR - KANAL AVRUPA
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39680
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="TR - STAR EUROPA" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/star-tv.png" group-title="AS | TURKISH | DIGER",TR - STAR EUROPA
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39744
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="TR - KANAL D EUROPA" tvg-logo="http://logo.panel.cx/logo/TURKIYE/KANALDEUROPA.png" group-title="AS | TURKISH | DIGER",TR - KANAL D EUROPA
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39746
+#EXTINF:-1 tvg-id="" tvg-name="##### TR - SPOR #####" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/TURKEY.png" group-title="AS | TURKISH | SPOR",##### TR - SPOR #####
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39564
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR - BEIN SPORTS 1 UHD" tvg-logo="http://logo.panel.cx/logo/BEIN/bein/BEIN1-hD.png" group-title="AS | TURKISH | SPOR",TR - BEIN SPORTS 1 UHD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/49352
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TR - BEIN SPORTS 2 UHD" tvg-logo="http://logo.panel.cx/logo/BEIN/BeinSports/bein-sportshd2.png" group-title="AS | TURKISH | SPOR",TR - BEIN SPORTS 2 UHD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39562
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="TR - BEIN SPORTS 3 UHD" tvg-logo="http://logo.panel.cx/logo/BEIN/BeinSports/bein-sportshd3.png" group-title="AS | TURKISH | SPOR",TR - BEIN SPORTS 3 UHD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39561
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="TR - BEIN SPORTS 4 UHD" tvg-logo="http://logo.panel.cx/logo/BEIN/BeinSports/bein-sportshd4.png" group-title="AS | TURKISH | SPOR",TR - BEIN SPORTS 4 UHD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39560
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR - BEIN SPORTS 1 HD" tvg-logo="http://logo.panel.cx/logo/BEIN/BeinSports/bein-sportshd1.png" group-title="AS | TURKISH | SPOR",TR - BEIN SPORTS 1 HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39559
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TR - BEIN SPORTS 2 HD" tvg-logo="http://logo.panel.cx/logo/BEIN/BeinSports/bein-sportshd2.png" group-title="AS | TURKISH | SPOR",TR - BEIN SPORTS 2 HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39558
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="TR - BEIN SPORTS 3 HD" tvg-logo="http://logo.panel.cx/logo/BEIN/BeinSports/bein-sportshd3.png" group-title="AS | TURKISH | SPOR",TR - BEIN SPORTS 3 HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39557
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="TR - BEIN SPORTS 4 HD" tvg-logo="http://logo.panel.cx/logo/BEIN/BeinSports/bein-sportshd4.png" group-title="AS | TURKISH | SPOR",TR - BEIN SPORTS 4 HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39556
+#EXTINF:-1 tvg-id="" tvg-name="TR - BEIN MAX 1 HD" tvg-logo="http://logo.panel.cx/logo/TURKIYE/BEINSPORTS.png" group-title="AS | TURKISH | SPOR",TR - BEIN MAX 1 HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39555
+#EXTINF:-1 tvg-id="" tvg-name="TR - BEIN MAX 2 HD" tvg-logo="http://logo.panel.cx/logo/TURKIYE/BEINSPORTS.png" group-title="AS | TURKISH | SPOR",TR - BEIN MAX 2 HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39554
+#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-name="TR - BEIN SPORTS HABER HD" tvg-logo="http://logo.panel.cx/logo/TURKIYE/BEINSPORTSHABERHDPLUS.png" group-title="AS | TURKISH | SPOR",TR - BEIN SPORTS HABER HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39545
+#EXTINF:-1 tvg-id="smartspor.tr" tvg-name="TR - SMART SPOR HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/Smart-spor.png" group-title="AS | TURKISH | SPOR",TR - SMART SPOR HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39553
+#EXTINF:-1 tvg-id="sportstv.tr" tvg-name="TR - SPORTS TV" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/SPORTS-TV.png" group-title="AS | TURKISH | SPOR",TR - SPORTS TV
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39552
+#EXTINF:-1 tvg-id="" tvg-name="TR - SARAN SPORT HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/S-SPOR.png" group-title="AS | TURKISH | SPOR",TR - SARAN SPORT HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39551
+#EXTINF:-1 tvg-id="" tvg-name="TR - TİVİBU SPOR HD PLUS" tvg-logo="http://logo.panel.cx/logo/TURKIYE/TIVIBUSPOR.png" group-title="AS | TURKISH | DIGER",TR - TİVİBU SPOR HD PLUS
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39550
+#EXTINF:-1 tvg-id="" tvg-name="TR - TIVIBU SPOR 1 HD" tvg-logo="http://logo.panel.cx/logo/TURKIYE/TIVIBUSPOR.png" group-title="AS | TURKISH | SPOR",TR - TIVIBU SPOR 1 HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39549
+#EXTINF:-1 tvg-id="" tvg-name="TR - TIVIBU SPOR 2 HD" tvg-logo="http://logo.panel.cx/logo/TURKIYE/TIVIBUSPOR2.png" group-title="AS | TURKISH | SPOR",TR - TIVIBU SPOR 2 HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39548
+#EXTINF:-1 tvg-id="" tvg-name="TR - TIVIBU SPOR 3 HD" tvg-logo="http://logo.panel.cx/logo/TURKIYE/tivibuspor3.png" group-title="AS | TURKISH | SPOR",TR - TIVIBU SPOR 3 HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39547
+#EXTINF:-1 tvg-id="" tvg-name="TR - TAY TV HD PLUS" tvg-logo="http://logo.panel.cx/logo/TURKIYE/TAYTVHDPLUS.png" group-title="AS | TURKISH | SPOR",TR - TAY TV HD PLUS
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39543
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TR - TRT SPOR HD PLUS" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/TRT-SPOR.png" group-title="AS | TURKISH | SPOR",TR - TRT SPOR HD PLUS
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39544
+#EXTINF:-1 tvg-id="trtspor2.tr" tvg-name="TR - TRT SPOR 2 HD+" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/TRT-SPOR.png" group-title="AS | TURKISH | SPOR",TR - TRT SPOR 2 HD+
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/199853
+#EXTINF:-1 tvg-id="aspor.tr" tvg-name="TR - A SPOR HD PLUS" tvg-logo="http://logo.panel.cx/logo/TURKIYE/ASPORHDPLUS.png" group-title="AS | TURKISH | SPOR",TR - A SPOR HD PLUS
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39542
+#EXTINF:-1 tvg-id="" tvg-name="TR - GS TV" tvg-logo="http://logo.panel.cx/logo/TURKIYE/GSTV.png" group-title="AS | TURKISH | SPOR",TR - GS TV
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39539
+#EXTINF:-1 tvg-id="" tvg-name="TR - BJK TV" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/bjk-tv.png" group-title="AS | TURKISH | SPOR",TR - BJK TV
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/65117
+#EXTINF:-1 tvg-id="eurosport1.tr" tvg-name="TR - EUROSPORT 1 HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/EUROSPORT1HD.png" group-title="AS | TURKISH | SPOR",TR - EUROSPORT 1 HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/82488
+#EXTINF:-1 tvg-id="eurosport2.tr" tvg-name="TR - EUROSPORT 2 HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/EUROSPORT2HD.png" group-title="AS | TURKISH | SPOR",TR - EUROSPORT 2 HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/82489
+#EXTINF:-1 tvg-id="" tvg-name="TR - SPOR SMART HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/Smart-spor.png" group-title="AS | TURKISH | SPOR",TR - SPOR SMART HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/82477
+#EXTINF:-1 tvg-id="" tvg-name="TR - SPOR SMART HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/Smart-spor.png" group-title="AS | TURKISH | SPOR",TR - SPOR SMART HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/82490
+#EXTINF:-1 tvg-id="nbatv.tr" tvg-name="TR - NBA HD" tvg-logo="http://logo.panel.cx/logo/TURKIYE/NBA.png" group-title="AS | TURKISH | SPOR",TR - NBA HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/82492
+#EXTINF:-1 tvg-id="filmbox.tr" tvg-name="TR - FIGHT BOX HD" tvg-logo="http://logo.panel.cx/logo/TURKIYE/FIGHT-BOX.png" group-title="AS | TURKISH | SPOR",TR - FIGHT BOX HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/82493
+#EXTINF:-1 tvg-id="fbtv.tr" tvg-name="TR - FB TV HD PLUS" tvg-logo="http://logo.panel.cx/logo/TURKIYE/FBTVHDPLUS.png" group-title="AS | TURKISH | SPOR",TR - FB TV HD PLUS
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39541
+#EXTINF:-1 tvg-id="smartspor.tr" tvg-name="VIP TR - SMART SPOR HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/Smart-spor.png" group-title="AS | TURKISH | SPOR",VIP TR - SMART SPOR HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/73152
+#EXTINF:-1 tvg-id="ssport.tr" tvg-name="VIP TR - S-Sport HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/S-SPOR.png" group-title="AS | TURKISH | SPOR",VIP TR - S-Sport HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/73154
+#EXTINF:-1 tvg-id="" tvg-name="VIP TR - GS TV" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/GS-Tv.png" group-title="AS | TURKISH | SPOR",VIP TR - GS TV
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/73156
+#EXTINF:-1 tvg-id="fbtv.tr" tvg-name="VIP TR - FB TV" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/FB-TV.png" group-title="AS | TURKISH | SPOR",VIP TR - FB TV
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/73157
+#EXTINF:-1 tvg-id="" tvg-name="VIP TR - BJK TV" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/bjk-tv.png" group-title="AS | TURKISH | SPOR",VIP TR - BJK TV
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/73158
+#EXTINF:-1 tvg-id="eurosport1.tr" tvg-name="VIP TR - EUROSPORT 1" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/EUROSPORT1HD.png" group-title="AS | TURKISH | SPOR",VIP TR - EUROSPORT 1
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/73159
+#EXTINF:-1 tvg-id="eurosport2.tr" tvg-name="VIP TR - EUROSPORT 2" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/EUROSPORT2HD.png" group-title="AS | TURKISH | SPOR",VIP TR - EUROSPORT 2
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/73160
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="VIP TR - TRT SPOR" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/TRT-SPOR.png" group-title="AS | TURKISH | SPOR",VIP TR - TRT SPOR
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/73161
+#EXTINF:-1 tvg-id="aspor.tr" tvg-name="VIP TR - A SPOR" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/A-SPOR.png" group-title="AS | TURKISH | SPOR",VIP TR - A SPOR
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/73163
+#EXTINF:-1 tvg-id="sportstv.tr" tvg-name="VIP TR - SPORTS TV HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/SPORTS-TV.png" group-title="AS | TURKISH | SPOR",VIP TR - SPORTS TV HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/73150
+#EXTINF:-1 tvg-id="" tvg-name="##### TR - HABER #####" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/TURKEY.png" group-title="AS | TURKISH | DIGER",##### TR - HABER #####
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39742
+#EXTINF:-1 tvg-id="trthaber.tr" tvg-name="TR - TRT HABER HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/TRTWORLDHDPLUS.png" group-title="AS | TURKISH | DIGER",TR - TRT HABER HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39741
+#EXTINF:-1 tvg-id="cnnturk.tr" tvg-name="TR - CNN TURK HD PLUS" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/CNN.png" group-title="AS | TURKISH | DIGER",TR - CNN TURK HD PLUS
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39740
+#EXTINF:-1 tvg-id="ntv.tr" tvg-name="TR - NTV HD PLUS" tvg-logo="http://logo.panel.cx/logo/TURKIYE/NTVHDPLUS.png" group-title="AS | TURKISH | DIGER",TR - NTV HD PLUS
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39739
+#EXTINF:-1 tvg-id="" tvg-name="TR - 24 HABER HD PLUS" tvg-logo="http://logo.panel.cx/logo/TURKIYE/24HABERHDPLUS.png" group-title="AS | TURKISH | DIGER",TR - 24 HABER HD PLUS
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39737
+#EXTINF:-1 tvg-id="Haberturk.tr" tvg-name="TR - HABER GLOBAL HD PLUS" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/HABER-GLOBAL.png" group-title="AS | TURKISH | DIGER",TR - HABER GLOBAL HD PLUS
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/65144
+#EXTINF:-1 tvg-id="" tvg-name="TR - EKO TÜRK TV" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/eko-turk.png" group-title="AS | TURKISH | DIGER",TR - EKO TÜRK TV
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/65143
+#EXTINF:-1 tvg-id="tvnet.tr" tvg-name="TR - TV NET HD PLUS" tvg-logo="http://logo.panel.cx/logo/TURKIYE/TVNETHDPLUS.png" group-title="AS | TURKISH | DIGER",TR - TV NET HD PLUS
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39734
+#EXTINF:-1 tvg-id="ulketv.tr" tvg-name="TR - ÜLKE TV HD PLUS" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/ulketv.png" group-title="AS | TURKISH | DIGER",TR - ÜLKE TV HD PLUS
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39733
+#EXTINF:-1 tvg-id="ahaber.tr" tvg-name="TR - A HABER HD PLUS" tvg-logo="http://logo.panel.cx/logo/TURKIYE/TR/ahaberplus.png" group-title="AS | TURKISH | DIGER",TR - A HABER HD PLUS
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39736
+#EXTINF:-1 tvg-id="" tvg-name="TR - AKIT TV HD PLUS" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/akit-tv-1.png" group-title="AS | TURKISH | DIGER",TR - AKIT TV HD PLUS
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39659
+#EXTINF:-1 tvg-id="" tvg-name="TR - TV 100 HD PLUS" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/TV-100.png" group-title="AS | TURKISH | DIGER",TR - TV 100 HD PLUS
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/65142
+#EXTINF:-1 tvg-id="bloomberght.tr" tvg-name="TR - BLOOMBERG HT HD PLUS" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/bloom.png" group-title="AS | TURKISH | DIGER",TR - BLOOMBERG HT HD PLUS
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39730
+#EXTINF:-1 tvg-id="" tvg-name="TR - A PARA HD PLUS" tvg-logo="http://logo.panel.cx/logo/TURKIYE/TR/APARAHDPLUS.png" group-title="AS | TURKISH | DIGER",TR - A PARA HD PLUS
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39608
+#EXTINF:-1 tvg-id="trtworld.tr" tvg-name="TR - TRT WORLD HD PLUS" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/TRTWORLDHDPLUS.png" group-title="AS | TURKISH | DIGER",TR - TRT WORLD HD PLUS
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39607
+#EXTINF:-1 tvg-id="" tvg-name="TR - A NEWS HD PLUS" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/a-news.png" group-title="AS | TURKISH | DIGER",TR - A NEWS HD PLUS
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39729
+#EXTINF:-1 tvg-id="ulusalkanal.tr" tvg-name="TR - ULUSAL KANAL" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/ULUSALKANAL.png" group-title="AS | TURKISH | DIGER",TR - ULUSAL KANAL
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39677
+#EXTINF:-1 tvg-id="" tvg-name="TR - HALK TV" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/HALKTV.png" group-title="AS | TURKISH | DIGER",TR - HALK TV
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39678
+#EXTINF:-1 tvg-id="" tvg-name="TR - TGRT HABER" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/tgrteu.png" group-title="AS | TURKISH | DIGER",TR - TGRT HABER
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39735
+#EXTINF:-1 tvg-id="" tvg-name="TR - TELE 1" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/TELE-1.png" group-title="AS | TURKISH | DIGER",TR - TELE 1
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/65141
+#EXTINF:-1 tvg-id="" tvg-name="TR - UZAY HABER" tvg-logo="http://logo.panel.cx/logo/TURKIYE/UZAYHABER.png" group-title="AS | TURKISH | DIGER",TR - UZAY HABER
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39654
+#EXTINF:-1 tvg-id="kanalb.tr" tvg-name="TR - KANAL B" tvg-logo="http://logo.panel.cx/logo/TURKIYE/KANALB.png" group-title="AS | TURKISH | DIGER",TR - KANAL B
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39732
+#EXTINF:-1 tvg-id="kraltv.tr" tvg-name="TR - KRT HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/krt.png" group-title="AS | TURKISH | DIGER",TR - KRT HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/65139
+#EXTINF:-1 tvg-id="haberturk.tr" tvg-name="TR - HABER TURK HD PLUS" tvg-logo="http://logo.panel.cx/logo/TURKIYE/HABERTURKHDPLUS.png" group-title="AS | TURKISH | DIGER",TR - HABER TURK HD PLUS
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39738
+#EXTINF:-1 tvg-id="" tvg-name="TR - TV 100 BALIKESIR" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/TV-100.png" group-title="AS | TURKISH | DIGER",TR - TV 100 BALIKESIR
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39636
+#EXTINF:-1 tvg-id="" tvg-name="TR - ARTI TV HD" tvg-logo="http://logo.panel.cx/logo/TURKIYE/ARTITV.png" group-title="AS | TURKISH | DIGER",TR - ARTI TV HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/82313
+#EXTINF:-1 tvg-id="" tvg-name="TR - Can TV HD" tvg-logo="http://logo.panel.cx/logo/TURKIYE/CAN-TV.png" group-title="AS | TURKISH | DIGER",TR - Can TV HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/82314
+#EXTINF:-1 tvg-id="" tvg-name="##### TR - SINEMA #####" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/TURKEY.png" group-title="AS | TURKISH | SINEMA",##### TR - SINEMA #####
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/65161
+#EXTINF:-1 tvg-id="beinmoviesaction.tr" tvg-name="TR - BEIN MOVIES ACTION HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/MoviesHD1.png" group-title="AS | TURKISH | SINEMA",TR - BEIN MOVIES ACTION HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39604
+#EXTINF:-1 tvg-id="beinmoviesaction2.tr" tvg-name="TR - BEIN MOVIES ACTION 2 HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/MoviesHD2.png" group-title="AS | TURKISH | SINEMA",TR - BEIN MOVIES ACTION 2 HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39603
+#EXTINF:-1 tvg-id="beinmoviesfamily.tr" tvg-name="TR - BEIN MOVIES FAMILY HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/bein-m-f.png" group-title="AS | TURKISH | SINEMA",TR - BEIN MOVIES FAMILY HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39601
+#EXTINF:-1 tvg-id="beinmoviespremier.tr" tvg-name="TR - BEIN MOVIES PREMIER HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/BEIN-MO-PR.png" group-title="AS | TURKISH | SINEMA",TR - BEIN MOVIES PREMIER HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39599
+#EXTINF:-1 tvg-id="beinmoviespremiere2.tr" tvg-name="TR - MOVIE SMART PREMIER 2 HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/MOVIE-SMART-HD-P.png" group-title="AS | TURKISH | SINEMA",TR - MOVIE SMART PREMIER 2 HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39598
+#EXTINF:-1 tvg-id="beinmoviesstars.tr" tvg-name="TR - BEIN MOVIES STARS HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/BEIN-M-STARS.png" group-title="AS | TURKISH | SINEMA",TR - BEIN MOVIES STARS HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39597
+#EXTINF:-1 tvg-id="beinmoviesturk.tr" tvg-name="TR - BEIN MOVIES TURK HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/BEIN-M-TURK.png" group-title="AS | TURKISH | SINEMA",TR - BEIN MOVIES TURK HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39596
+#EXTINF:-1 tvg-id="beinseriescomedy.tr" tvg-name="TR - BEIN SERIES COMEDY HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/BEIN-SERIES-CO.png" group-title="AS | TURKISH | SINEMA",TR - BEIN SERIES COMEDY HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/65126
+#EXTINF:-1 tvg-id="beinseriesdrama.tr" tvg-name="TR - BEIN SERIES DRAMA HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/BEIN-S-D.png" group-title="AS | TURKISH | SINEMA",TR - BEIN SERIES DRAMA HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/65125
+#EXTINF:-1 tvg-id="beinseriesscifi.tr" tvg-name="TR - BEIN SERIES SCI-FI HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/BEIN%20-SCI-FI.png" group-title="AS | TURKISH | SINEMA",TR - BEIN SERIES SCI-FI HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/65124
+#EXTINF:-1 tvg-id="beinseriesvice.tr" tvg-name="TR - BEIN SERIES VICE HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/BEIN-S-VICE.png" group-title="AS | TURKISH | SINEMA",TR - BEIN SERIES VICE HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/65123
+#EXTINF:-1 tvg-id="beinboxoffice1.tr" tvg-name="TR - BEIN BOX OFFICE 1 HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/bein-box-Ooffice.png" group-title="AS | TURKISH | SINEMA",TR - BEIN BOX OFFICE 1 HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39595
+#EXTINF:-1 tvg-id="beinboxoffice2.tr" tvg-name="TR - BEIN BOX OFFICE 2 HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/bein-box-office2.png" group-title="AS | TURKISH | SINEMA",TR - BEIN BOX OFFICE 2 HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39594
+#EXTINF:-1 tvg-id="beinboxoffice3.tr" tvg-name="TR - BEIN BOX OFFICE 3 HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/bein-box-office3.png" group-title="AS | TURKISH | SINEMA",TR - BEIN BOX OFFICE 3 HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39593
+#EXTINF:-1 tvg-id="sinemayerli.tr" tvg-name="TR - SINEMA TV YERLI HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/sinema--yerli.png" group-title="AS | TURKISH | SINEMA",TR - SINEMA TV YERLI HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/82454
+#EXTINF:-1 tvg-id="sinemakomedihd.tr" tvg-name="TR - SINEMA TV KOMEDI HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/komedi.png" group-title="AS | TURKISH | SINEMA",TR - SINEMA TV KOMEDI HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/82456
+#EXTINF:-1 tvg-id="sinemakomedi2hd.tr" tvg-name="TR - ELIT SINEMA KOMEDI 2 HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/ELI-KO.png" group-title="AS | TURKISH | SINEMA",TR - ELIT SINEMA KOMEDI 2 HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/82457
+#EXTINF:-1 tvg-id="sinematvhd.tr" tvg-name="TR - SINEMA TV HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/SINEMATV-GRI.png" group-title="AS | TURKISH | SINEMA",TR - SINEMA TV HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/82458
+#EXTINF:-1 tvg-id="sinema2hd.tr" tvg-name="TR - SINEMA TV 2 HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/BOSS-M-9.png" group-title="AS | TURKISH | SINEMA",TR - SINEMA TV 2 HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/82459
+#EXTINF:-1 tvg-id="sinemaailehd.tr" tvg-name="TR - SINEMA TV AILE HD" tvg-logo="http://logo.panel.cx/logo/TURKIYE/SINEMA-AILE.png" group-title="AS | TURKISH | SINEMA",TR - SINEMA TV AILE HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/82460
+#EXTINF:-1 tvg-id="sinemaaile2hd.tr" tvg-name="TR - SINEMA TV AILE 2 HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/komedi.png" group-title="AS | TURKISH | SINEMA",TR - SINEMA TV AILE 2 HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/82461
+#EXTINF:-1 tvg-id="sinemaaksiyonhd.tr" tvg-name="TR - SINEMA TV ACTION HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/AKTION.png" group-title="AS | TURKISH | SINEMA",TR - SINEMA TV ACTION HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/82462
+#EXTINF:-1 tvg-id="sinemaaksiyon2hd.tr" tvg-name="TR - SINEMA TV ACTION 2 HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/AKTION.png" group-title="AS | TURKISH | SINEMA",TR - SINEMA TV ACTION 2 HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/82463
+#EXTINF:-1 tvg-id="" tvg-name="TR - SINEMA TV 1001 HD" tvg-logo="http://logo.panel.cx/logo/TURKIYE/sinema-1001.png" group-title="AS | TURKISH | SINEMA",TR - SINEMA TV 1001 HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/172776
+#EXTINF:-1 tvg-id="" tvg-name="TR - SINEMA TV 1002 HD" tvg-logo="http://logo.panel.cx/logo/TURKIYE/sinema-1002.png" group-title="AS | TURKISH | SINEMA",TR - SINEMA TV 1002 HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/172777
+#EXTINF:-1 tvg-id="" tvg-name="TR - SiNEMA TV AKSiYON HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/sinemaaksiyon_ikon.png" group-title="AS | TURKISH | SINEMA",TR - SiNEMA TV AKSiYON HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/172778
+#EXTINF:-1 tvg-id="" tvg-name="TR - SINEMA TV AKSIYON 2 HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/ELIT-SINEMA-YERLI-2.png" group-title="AS | TURKISH | SINEMA",TR - SINEMA TV AKSIYON 2 HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/172779
+#EXTINF:-1 tvg-id="" tvg-name="TR - ELIT SINEMA TV YERLI 2 HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/sinema--yerli.png" group-title="AS | TURKISH | SINEMA",TR - ELIT SINEMA TV YERLI 2 HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/172780
+#EXTINF:-1 tvg-id="moviesmartpremium.tr" tvg-name="TR - MOVIE SMART PREMIUM HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/MOVIE-SMART-HD-P.png" group-title="AS | TURKISH | SINEMA",TR - MOVIE SMART PREMIUM HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/82418
+#EXTINF:-1 tvg-id="moviesmartpremium2.tr" tvg-name="TR - MOVIE PREMIUM 2 HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/MOVE-SMART.png" group-title="AS | TURKISH | SINEMA",TR - MOVIE PREMIUM 2 HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/82419
+#EXTINF:-1 tvg-id="moviesmartplatin.tr" tvg-name="TR - SINEMA 2" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/SINEMA-2.png" group-title="AS | TURKISH | SINEMA",TR - SINEMA 2
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/82420
+#EXTINF:-1 tvg-id="moviesmartplatin2.tr" tvg-name="TR - MOVIE PLATIN 2 HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/MOVIES.png" group-title="AS | TURKISH | SINEMA",TR - MOVIE PLATIN 2 HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/82421
+#EXTINF:-1 tvg-id="moviesmartfamily.tr" tvg-name="TR - SINEMA AILE 2 HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/SINEMA-AILE-2.png" group-title="AS | TURKISH | SINEMA",TR - SINEMA AILE 2 HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/82422
+#EXTINF:-1 tvg-id="" tvg-name="TR - MOVIE FEST HD" tvg-logo="http://logo.panel.cx/logo/TURKIYE/MOVIE-SMART-FEST.png" group-title="AS | TURKISH | SINEMA",TR - MOVIE FEST HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/82423
+#EXTINF:-1 tvg-id="moviesmartgold.tr" tvg-name="TR - MOVIE GOLD HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/gold.png" group-title="AS | TURKISH | SINEMA",TR - MOVIE GOLD HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/82424
+#EXTINF:-1 tvg-id="moviesmartclassic.tr" tvg-name="TR -DIZI SMART HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/MOVE-SMART.png" group-title="AS | TURKISH | SINEMA",TR -DIZI SMART HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/82425
+#EXTINF:-1 tvg-id="moviesmartaction.tr" tvg-name="TR - MOVIE ACTION HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/bein-movies.png" group-title="AS | TURKISH | SINEMA",TR - MOVIE ACTION HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/82426
+#EXTINF:-1 tvg-id="moviesmartturk.tr" tvg-name="TR - MOVIE TURK HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/MOVIE-SMART-TURK.png" group-title="AS | TURKISH | SINEMA",TR - MOVIE TURK HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/82427
+#EXTINF:-1 tvg-id="fxnetwork.tr" tvg-name="TR - FX HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/FX.png" group-title="AS | TURKISH | SINEMA",TR - FX HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/82430
+#EXTINF:-1 tvg-id="foxcrime.tr" tvg-name="TR - FOX CRIME HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/fox_crime.png" group-title="AS | TURKISH | SINEMA",TR - FOX CRIME HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/82431
+#EXTINF:-1 tvg-id="filmbox.tr" tvg-name="TR - REDBOX BOXSET HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/REDBOX.png" group-title="AS | TURKISH | SINEMA",TR - REDBOX BOXSET HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/82433
+#EXTINF:-1 tvg-id="dizismartmax.tr" tvg-name="TR - DIZISMART MAX HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/DIZISMART-MAX.png" group-title="AS | TURKISH | SINEMA",TR - DIZISMART MAX HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/82429
+#EXTINF:-1 tvg-id="dizismartpremium.tr" tvg-name="TR - DiZi PREMIUM HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/DiziSmartPremium.png" group-title="AS | TURKISH | SINEMA",TR - DiZi PREMIUM HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/82428
+#EXTINF:-1 tvg-id="" tvg-name="TR - METROPOL TURK" tvg-logo="http://logo.panel.cx/logo/TURKIYE/METROPOL-TURK.png" group-title="AS | TURKISH | SINEMA",TR - METROPOL TURK
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/84311
+#EXTINF:-1 tvg-id="" tvg-name="TR - METROPOL NETFLIX" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/ELIT-NETLFIX.png" group-title="AS | TURKISH | SINEMA",TR - METROPOL NETFLIX
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/84312
+#EXTINF:-1 tvg-id="" tvg-name="TR - METROPOL KUKUL" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/KUKULI.png" group-title="AS | TURKISH | SINEMA",TR - METROPOL KUKUL
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/84313
+#EXTINF:-1 tvg-id="" tvg-name="TR - METROPOL KARE" tvg-logo="http://logo.panel.cx/logo/TURKIYE/METROPOL-KARE.png" group-title="AS | TURKISH | SINEMA",TR - METROPOL KARE
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/84314
+#EXTINF:-1 tvg-id="" tvg-name="TR - METROPOL ANKARA" tvg-logo="http://logo.panel.cx/logo/TURKIYE/METROPOL-ANKARa.png" group-title="AS | TURKISH | SINEMA",TR - METROPOL ANKARA
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/84315
+#EXTINF:-1 tvg-id="" tvg-name="TR - METROPOL AKILLI TAVSAN MOMO" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/moomoo.png" group-title="AS | TURKISH | SINEMA",TR - METROPOL AKILLI TAVSAN MOMO
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/84316
+#EXTINF:-1 tvg-id="" tvg-name="VIP TR - BLU BOX " tvg-logo="http://logo.panel.cx/logo/TURKIYE/BLU-BOX.png" group-title="AS | TURKISH | SINEMA",VIP TR - BLU BOX 
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/84310
+#EXTINF:-1 tvg-id="sinematvhd.tr" tvg-name="VIP TR - SINEMA TV HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/SINEMATV.png" group-title="AS | TURKISH | SINEMA",VIP TR - SINEMA TV HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/73167
+#EXTINF:-1 tvg-id="sinematvhd.tr" tvg-name="VIP TR - SINEMA 1 HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/NET-SERYEL.png" group-title="AS | TURKISH | SINEMA",VIP TR - SINEMA 1 HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/73172
+#EXTINF:-1 tvg-id="sinema2hd.tr" tvg-name="VIP TR - SINEMA 2 HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/SINEMAA--2.png" group-title="AS | TURKISH | SINEMA",VIP TR - SINEMA 2 HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/73173
+#EXTINF:-1 tvg-id="" tvg-name="VIP TR - Sinema TV Aile 2 HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/SINEMATV-AILE-2.png" group-title="AS | TURKISH | SINEMA",VIP TR - Sinema TV Aile 2 HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/73174
+#EXTINF:-1 tvg-id="" tvg-name="VIP TR - FILM TV 1" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/NETSERVER.png" group-title="AS | TURKISH | SINEMA",VIP TR - FILM TV 1
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/73177
+#EXTINF:-1 tvg-id="" tvg-name="VIP TR - FILM TV 2" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/NETSERVER.png" group-title="AS | TURKISH | SINEMA",VIP TR - FILM TV 2
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/73178
+#EXTINF:-1 tvg-id="" tvg-name="VIP TR - FILM TV 3" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/NETSERVER.png" group-title="AS | TURKISH | SINEMA",VIP TR - FILM TV 3
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/73179
+#EXTINF:-1 tvg-id="" tvg-name="VIP TR - FILM TV 4" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/NETSERVER.png" group-title="AS | TURKISH | SINEMA",VIP TR - FILM TV 4
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/73180
+#EXTINF:-1 tvg-id="" tvg-name="VIP TR - FILM TV 5" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/NETSERVER.png" group-title="AS | TURKISH | SINEMA",VIP TR - FILM TV 5
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/73181
+#EXTINF:-1 tvg-id="" tvg-name="VIP TR - FILM TV 6" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/NETSERVER.png" group-title="AS | TURKISH | SINEMA",VIP TR - FILM TV 6
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/73182
+#EXTINF:-1 tvg-id="" tvg-name="VIP TR - FILM TV 7" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/NETSERVER.png" group-title="AS | TURKISH | SINEMA",VIP TR - FILM TV 7
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/73183
+#EXTINF:-1 tvg-id="filmbox.tr" tvg-name="VIP TR - FILMBOX HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/FILMBOX.png" group-title="AS | TURKISH | SINEMA",VIP TR - FILMBOX HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/73185
+#EXTINF:-1 tvg-id="" tvg-name="TR - ELIT AKILLI TAVSAN MOMO" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/AKILLI-MOMO.png" group-title="AS | TURKISH | SINEMA",TR - ELIT AKILLI TAVSAN MOMO
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/65116
+#EXTINF:-1 tvg-id="" tvg-name="TR - ELIT ANKARA HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/NET.png" group-title="AS | TURKISH | SINEMA",TR - ELIT ANKARA HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/65115
+#EXTINF:-1 tvg-id="" tvg-name="TR - ELIT ARABESK HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/NET-ARABEK.png" group-title="AS | TURKISH | SINEMA",TR - ELIT ARABESK HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/65114
+#EXTINF:-1 tvg-id="" tvg-name="TR - ELIT BOX OFFICE HD 1" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/bein-box-Ooffice.png" group-title="AS | TURKISH | SINEMA",TR - ELIT BOX OFFICE HD 1
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/65113
+#EXTINF:-1 tvg-id="" tvg-name="TR - ELIT BOX OFFICE HD 2" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/kamesinal.png" group-title="AS | TURKISH | SINEMA",TR - ELIT BOX OFFICE HD 2
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/65112
+#EXTINF:-1 tvg-id="" tvg-name="TR - ELIT BOX OFFICE HD 3" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/ELIT.png" group-title="AS | TURKISH | SINEMA",TR - ELIT BOX OFFICE HD 3
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/65111
+#EXTINF:-1 tvg-id="" tvg-name="TR - ELIT HD ANIMASYON 1" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/ELIT-1.png" group-title="AS | TURKISH | SINEMA",TR - ELIT HD ANIMASYON 1
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/65110
+#EXTINF:-1 tvg-id="" tvg-name="TR - ELIT HD ANIMASYON 2" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/ELIT-HD%20-ANIMASYON.png" group-title="AS | TURKISH | SINEMA",TR - ELIT HD ANIMASYON 2
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/65109
+#EXTINF:-1 tvg-id="" tvg-name="TR - ELIT HD ANIMASYON 3" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/ELIT-3.png" group-title="AS | TURKISH | SINEMA",TR - ELIT HD ANIMASYON 3
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/65108
+#EXTINF:-1 tvg-id="" tvg-name="TR - ELIT HD COCUK" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/COCUK-2.png" group-title="AS | TURKISH | SINEMA",TR - ELIT HD COCUK
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/65104
+#EXTINF:-1 tvg-id="" tvg-name="TR - ELIT MASA ILE KOCA AYI" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/MASA-COCA.png" group-title="AS | TURKISH | SINEMA",TR - ELIT MASA ILE KOCA AYI
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/65102
+#EXTINF:-1 tvg-id="" tvg-name="TR - ELIT MOVIES FAMILY HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/ELIT-MOVIES.png" group-title="AS | TURKISH | SINEMA",TR - ELIT MOVIES FAMILY HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/65098
+#EXTINF:-1 tvg-id="" tvg-name="TR - ELIT MOVIES FESTIVAL HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/ELIT-MOVIES.png" group-title="AS | TURKISH | SINEMA",TR - ELIT MOVIES FESTIVAL HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/65097
+#EXTINF:-1 tvg-id="" tvg-name="TR - ELIT MOVIES PREMIER 2 HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/ELIT-MOVIES.png" group-title="AS | TURKISH | SINEMA",TR - ELIT MOVIES PREMIER 2 HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/65096
+#EXTINF:-1 tvg-id="" tvg-name="TR - ELIT MOVIES PREMIER HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/ELIT-MOVIES.png" group-title="AS | TURKISH | SINEMA",TR - ELIT MOVIES PREMIER HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/65095
+#EXTINF:-1 tvg-id="" tvg-name="TR - ELIT NETFLIX 1  HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/ELIT-NETLFIX.png" group-title="AS | TURKISH | SINEMA",TR - ELIT NETFLIX 1  HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/65092
+#EXTINF:-1 tvg-id="" tvg-name="TR - ELIT NETFLIX 2 HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/ELIT-NETLFIX.png" group-title="AS | TURKISH | SINEMA",TR - ELIT NETFLIX 2 HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/65091
+#EXTINF:-1 tvg-id="" tvg-name="TR - ELIT NETFLIX 3 HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/ELIT-NETLFIX.png" group-title="AS | TURKISH | SINEMA",TR - ELIT NETFLIX 3 HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/65090
+#EXTINF:-1 tvg-id="" tvg-name="TR - ELIT NILOYA TV" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/Niloya.png" group-title="AS | TURKISH | SINEMA",TR - ELIT NILOYA TV
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/65089
+#EXTINF:-1 tvg-id="" tvg-name="TR - ELIT POP HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/ELIT-POP.png" group-title="AS | TURKISH | SINEMA",TR - ELIT POP HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/65088
+#EXTINF:-1 tvg-id="" tvg-name="TR - ELIT SINEMA AILE 2 HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/AILE.png" group-title="AS | TURKISH | SINEMA",TR - ELIT SINEMA AILE 2 HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/65085
+#EXTINF:-1 tvg-id="" tvg-name="TR - ELIT SINEMA AILE HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/ELIT.png" group-title="AS | TURKISH | SINEMA",TR - ELIT SINEMA AILE HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/65084
+#EXTINF:-1 tvg-id="" tvg-name="TR - ELIT SINEMA AKSIYON 2 HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/ELIT-S-A.png" group-title="AS | TURKISH | SINEMA",TR - ELIT SINEMA AKSIYON 2 HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/65083
+#EXTINF:-1 tvg-id="" tvg-name="TR - ELIT SINEMA AKSIYON HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/ELIT-S-A.png" group-title="AS | TURKISH | SINEMA",TR - ELIT SINEMA AKSIYON HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/65082
+#EXTINF:-1 tvg-id="" tvg-name="TR - ELIT SINEMA KOMEDI 2 HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/ELI-KO.png" group-title="AS | TURKISH | SINEMA",TR - ELIT SINEMA KOMEDI 2 HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/65081
+#EXTINF:-1 tvg-id="" tvg-name="TR - ELIT SINEMA KOMEDI HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/ELI-KO.png" group-title="AS | TURKISH | SINEMA",TR - ELIT SINEMA KOMEDI HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/65080
+#EXTINF:-1 tvg-id="" tvg-name="TR - ELIT SINEMA TV 2 HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/ELIT.png" group-title="AS | TURKISH | SINEMA",TR - ELIT SINEMA TV 2 HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/65079
+#EXTINF:-1 tvg-id="" tvg-name="TR - ELIT SINEMA TV HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/ELIT.png" group-title="AS | TURKISH | SINEMA",TR - ELIT SINEMA TV HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/65078
+#EXTINF:-1 tvg-id="" tvg-name="TR - ELIT SINEMA YERLI 2 HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/sinema--yerli.png" group-title="AS | TURKISH | SINEMA",TR - ELIT SINEMA YERLI 2 HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/65077
+#EXTINF:-1 tvg-id="" tvg-name="TR - ELIT SINEMA YERLI HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/VERLI.png" group-title="AS | TURKISH | SINEMA",TR - ELIT SINEMA YERLI HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/65076
+#EXTINF:-1 tvg-id="" tvg-name="TR - ELIT SMART ACTION HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/ELIT.png" group-title="AS | TURKISH | SINEMA",TR - ELIT SMART ACTION HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/65074
+#EXTINF:-1 tvg-id="" tvg-name="TR - ELIT SMART FAMILY HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/ELIT.png" group-title="AS | TURKISH | SINEMA",TR - ELIT SMART FAMILY HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/65072
+#EXTINF:-1 tvg-id="" tvg-name="TR - ELIT SMART FEST HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/ELIT-MOVIES.png" group-title="AS | TURKISH | SINEMA",TR - ELIT SMART FEST HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/65071
+#EXTINF:-1 tvg-id="" tvg-name="TR - ELIT SMART PLATIN HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/ELIT.png" group-title="AS | TURKISH | SINEMA",TR - ELIT SMART PLATIN HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/65068
+#EXTINF:-1 tvg-id="" tvg-name="TR - ELIT SMART TURK HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/ELIT-SMART-TURK.png" group-title="AS | TURKISH | SINEMA",TR - ELIT SMART TURK HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/65065
+#EXTINF:-1 tvg-id="" tvg-name="TR - ELIT YESILCAM 3 HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/elit-ye.png" group-title="AS | TURKISH | SINEMA",TR - ELIT YESILCAM 3 HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/65062
+#EXTINF:-1 tvg-id="" tvg-name="TR - TURK CINEMA 1" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/drama1.png" group-title="AS | TURKISH | SINEMA",TR - TURK CINEMA 1
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/148603
+#EXTINF:-1 tvg-id="" tvg-name="TR - TURK CINEMA 2" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/sinematurk.png" group-title="AS | TURKISH | SINEMA",TR - TURK CINEMA 2
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/148604
+#EXTINF:-1 tvg-id="" tvg-name="TR - YESIL SINEMA TV" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/Ye%C5%9Fil_Sinema.png" group-title="AS | TURKISH | SINEMA",TR - YESIL SINEMA TV
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/148605
+#EXTINF:-1 tvg-id="" tvg-name="TR - KEMAL SUNAL TV 4K" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/aksiyon4.png" group-title="AS | TURKISH | SINEMA",TR - KEMAL SUNAL TV 4K
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/148606
+#EXTINF:-1 tvg-id="" tvg-name="TR - MEDOTV MIX 1" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/sinematurk.png" group-title="AS | TURKISH | SINEMA",TR - MEDOTV MIX 1
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/148607
+#EXTINF:-1 tvg-id="" tvg-name="TR - MEDOTV MIX 2" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/sinematurk.png" group-title="AS | TURKISH | SINEMA",TR - MEDOTV MIX 2
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/148608
+#EXTINF:-1 tvg-id="" tvg-name="TR - MEDOTV MIX 3" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/sinematurk.png" group-title="AS | TURKISH | SINEMA",TR - MEDOTV MIX 3
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/148609
+#EXTINF:-1 tvg-id="" tvg-name="TR - MEDOTV MIX 4" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/sinematurk.png" group-title="AS | TURKISH | SINEMA",TR - MEDOTV MIX 4
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/148610
+#EXTINF:-1 tvg-id="" tvg-name="TR - MEDOTV MIX 5" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/sinematurk.png" group-title="AS | TURKISH | SINEMA",TR - MEDOTV MIX 5
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/148611
+#EXTINF:-1 tvg-id="" tvg-name="TR - MEDOTV MIX 6" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/sinematurk.png" group-title="AS | TURKISH | SINEMA",TR - MEDOTV MIX 6
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/148612
+#EXTINF:-1 tvg-id="" tvg-name="TR - MEDOTV MIX 7" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/sinematurk.png" group-title="AS | TURKISH | SINEMA",TR - MEDOTV MIX 7
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/148613
+#EXTINF:-1 tvg-id="" tvg-name="TR - MEDOTV MIX 10" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/sinematurk.png" group-title="AS | TURKISH | SINEMA",TR - MEDOTV MIX 10
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/148614
+#EXTINF:-1 tvg-id="" tvg-name="TR - MEDOTV KORKU 1" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/korku1.png" group-title="AS | TURKISH | SINEMA",TR - MEDOTV KORKU 1
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/148615
+#EXTINF:-1 tvg-id="" tvg-name="TR - MEDOTV KOMEDI 1" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/komedi1.png" group-title="AS | TURKISH | SINEMA",TR - MEDOTV KOMEDI 1
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/148616
+#EXTINF:-1 tvg-id="" tvg-name="TR - MEDOTV DRAMA 1" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/drama1.png" group-title="AS | TURKISH | SINEMA",TR - MEDOTV DRAMA 1
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/148617
+#EXTINF:-1 tvg-id="" tvg-name="TR - MEDOTV WESTERN" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/western11.png" group-title="AS | TURKISH | SINEMA",TR - MEDOTV WESTERN
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/148618
+#EXTINF:-1 tvg-id="" tvg-name="TR - MEDOTV BILIMKURGU 1" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/redbox-aksiyon.png" group-title="AS | TURKISH | SINEMA",TR - MEDOTV BILIMKURGU 1
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/148619
+#EXTINF:-1 tvg-id="" tvg-name="TR - MEDOTV ANIMASYON 1" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/animasyon.png" group-title="AS | TURKISH | SINEMA",TR - MEDOTV ANIMASYON 1
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/148620
+#EXTINF:-1 tvg-id="" tvg-name="TR - MEDOTV AKSIYON 1" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/redbox-aksiyon.png" group-title="AS | TURKISH | SINEMA",TR - MEDOTV AKSIYON 1
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/148621
+#EXTINF:-1 tvg-id="" tvg-name="TR - MEDOTV AKSIYON 2" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/redbox-aksiyon.png" group-title="AS | TURKISH | SINEMA",TR - MEDOTV AKSIYON 2
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/148622
+#EXTINF:-1 tvg-id="" tvg-name="TR - MEDOTV AKSIYON 3" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/redbox-aksiyon.png" group-title="AS | TURKISH | SINEMA",TR - MEDOTV AKSIYON 3
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/148623
+#EXTINF:-1 tvg-id="" tvg-name="TR - MEDOTV AKSIYON 4" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/aksiyon4.png" group-title="AS | TURKISH | SINEMA",TR - MEDOTV AKSIYON 4
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/148624
+#EXTINF:-1 tvg-id="" tvg-name="TR - MEDOTV TURK SINEMA 1" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/sinema-turk1.png" group-title="AS | TURKISH | SINEMA",TR - MEDOTV TURK SINEMA 1
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/148625
+#EXTINF:-1 tvg-id="" tvg-name="TR - MEDOTV TURK SINEMA 2" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/sinematurk.png" group-title="AS | TURKISH | SINEMA",TR - MEDOTV TURK SINEMA 2
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/148626
+#EXTINF:-1 tvg-id="" tvg-name="TR - MEDOTV TURK SINEMA 3" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/sinematurk.png" group-title="AS | TURKISH | SINEMA",TR - MEDOTV TURK SINEMA 3
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/148627
+#EXTINF:-1 tvg-id="" tvg-name="TR - MEDOTV TURK SINEMA 4" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/sinema-turk1.png" group-title="AS | TURKISH | SINEMA",TR - MEDOTV TURK SINEMA 4
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/148628
+#EXTINF:-1 tvg-id="" tvg-name="TR - MEDOTV TURK SINEMA 5" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/sinematurk.png" group-title="AS | TURKISH | SINEMA",TR - MEDOTV TURK SINEMA 5
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/148629
+#EXTINF:-1 tvg-id="" tvg-name="TR - ENO TURK 1" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/ENO.png" group-title="AS | TURKISH | SINEMA",TR - ENO TURK 1
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/148630
+#EXTINF:-1 tvg-id="" tvg-name="TR - ENO ANIMASYON" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/eno-animation.png" group-title="AS | TURKISH | SINEMA",TR - ENO ANIMASYON
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/148631
+#EXTINF:-1 tvg-id="" tvg-name="TR - ENO WESTERN" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/ENO.png" group-title="AS | TURKISH | SINEMA",TR - ENO WESTERN
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/148632
+#EXTINF:-1 tvg-id="" tvg-name="TR - ENO VIZYON 1" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/ENO.png" group-title="AS | TURKISH | SINEMA",TR - ENO VIZYON 1
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/148633
+#EXTINF:-1 tvg-id="" tvg-name="TR - ENO VIZYON 2" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/ENO.png" group-title="AS | TURKISH | SINEMA",TR - ENO VIZYON 2
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/148634
+#EXTINF:-1 tvg-id="" tvg-name="TR - ENO VIZYON 3" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/ENO.png" group-title="AS | TURKISH | SINEMA",TR - ENO VIZYON 3
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/148635
+#EXTINF:-1 tvg-id="" tvg-name="TR - ENO VIZYON 4" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/ENO.png" group-title="AS | TURKISH | SINEMA",TR - ENO VIZYON 4
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/148636
+#EXTINF:-1 tvg-id="" tvg-name="TR - ENO VIZYON 5" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/ENO.png" group-title="AS | TURKISH | SINEMA",TR - ENO VIZYON 5
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/148637
+#EXTINF:-1 tvg-id="" tvg-name="TR - ENO VIZYON 6" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/ENO.png" group-title="AS | TURKISH | SINEMA",TR - ENO VIZYON 6
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/148638
+#EXTINF:-1 tvg-id="" tvg-name="TR - ENO VIZYON 7" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/ENO.png" group-title="AS | TURKISH | SINEMA",TR - ENO VIZYON 7
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/148639
+#EXTINF:-1 tvg-id="" tvg-name="TR - ENO VIZYON 8" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/ENO.png" group-title="AS | TURKISH | SINEMA",TR - ENO VIZYON 8
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/148640
+#EXTINF:-1 tvg-id="" tvg-name="TR - ENO VIZYON 9" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/ENO.png" group-title="AS | TURKISH | SINEMA",TR - ENO VIZYON 9
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/148641
+#EXTINF:-1 tvg-id="" tvg-name="TR - ENO VIZYON 10" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/ENO.png" group-title="AS | TURKISH | SINEMA",TR - ENO VIZYON 10
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/148642
+#EXTINF:-1 tvg-id="" tvg-name="TR - ENO VIZYON 11" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/ENO.png" group-title="AS | TURKISH | SINEMA",TR - ENO VIZYON 11
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/148643
+#EXTINF:-1 tvg-id="" tvg-name="TR - ENO VIZYON 12" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/ENO.png" group-title="AS | TURKISH | SINEMA",TR - ENO VIZYON 12
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/148644
+#EXTINF:-1 tvg-id="" tvg-name="TR - ENO VIZYON 13" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/ENO.png" group-title="AS | TURKISH | SINEMA",TR - ENO VIZYON 13
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/148645
+#EXTINF:-1 tvg-id="" tvg-name="TR - ENO VIZYON 14" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/ENO.png" group-title="AS | TURKISH | SINEMA",TR - ENO VIZYON 14
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/148646
+#EXTINF:-1 tvg-id="" tvg-name="TR - ENO VIZYON 15" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/ENO.png" group-title="AS | TURKISH | SINEMA",TR - ENO VIZYON 15
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/148647
+#EXTINF:-1 tvg-id="" tvg-name="TR - BOSS MOVIES 1 HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/BOSS-M-1.png" group-title="AS | TURKISH | SINEMA",TR - BOSS MOVIES 1 HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/148648
+#EXTINF:-1 tvg-id="" tvg-name="TR - BOSS MOVIES 2 HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/BOSS-M-2.png" group-title="AS | TURKISH | SINEMA",TR - BOSS MOVIES 2 HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/148649
+#EXTINF:-1 tvg-id="" tvg-name="TR - BOSS MOVIES 3 HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/BOSS-M-3.png" group-title="AS | TURKISH | SINEMA",TR - BOSS MOVIES 3 HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/148650
+#EXTINF:-1 tvg-id="" tvg-name="TR - BOSS MOVIES 4 HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/BOSS-M-4.png" group-title="AS | TURKISH | SINEMA",TR - BOSS MOVIES 4 HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/148651
+#EXTINF:-1 tvg-id="" tvg-name="TR - BOSS MOVIES 5 HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/BOSS-M-5.png" group-title="AS | TURKISH | SINEMA",TR - BOSS MOVIES 5 HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/148652
+#EXTINF:-1 tvg-id="" tvg-name="TR - BOSS MOVIES 6 HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/BOSS-M-6.png" group-title="AS | TURKISH | SINEMA",TR - BOSS MOVIES 6 HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/148653
+#EXTINF:-1 tvg-id="" tvg-name="TR - BOSS MOVIES 7 HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/BOSS-7.png" group-title="AS | TURKISH | SINEMA",TR - BOSS MOVIES 7 HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/148654
+#EXTINF:-1 tvg-id="" tvg-name="TR - BOSS MOVIES 8 HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/BOSSS-8.png" group-title="AS | TURKISH | SINEMA",TR - BOSS MOVIES 8 HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/148655
+#EXTINF:-1 tvg-id="" tvg-name="TR - BOSS MOVIES 9 HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/BOSS-M-9.png" group-title="AS | TURKISH | SINEMA",TR - BOSS MOVIES 9 HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/148656
+#EXTINF:-1 tvg-id="" tvg-name="TR - BOSS MOVIES 10 HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/BOSS-10.png" group-title="AS | TURKISH | SINEMA",TR - BOSS MOVIES 10 HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/148657
+#EXTINF:-1 tvg-id="" tvg-name="TR - BOSS MOVIES KEMAL SUNAL" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/BOSS.png" group-title="AS | TURKISH | SINEMA",TR - BOSS MOVIES KEMAL SUNAL
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/148658
+#EXTINF:-1 tvg-id="" tvg-name="TR - JUMBOTV KORKU HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/jumbo-tv.png" group-title="AS | TURKISH | SINEMA",TR - JUMBOTV KORKU HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/148659
+#EXTINF:-1 tvg-id="" tvg-name="TR - JUMBOTV KOMEDI HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/jumbo-tv.png" group-title="AS | TURKISH | SINEMA",TR - JUMBOTV KOMEDI HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/148661
+#EXTINF:-1 tvg-id="" tvg-name="TR - JUMBOTV GERILIM HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/jumbo-tv.png" group-title="AS | TURKISH | SINEMA",TR - JUMBOTV GERILIM HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/148662
+#EXTINF:-1 tvg-id="" tvg-name="TR - JUMBOTV FANTASTIK HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/jumbo-tv.png" group-title="AS | TURKISH | SINEMA",TR - JUMBOTV FANTASTIK HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/148663
+#EXTINF:-1 tvg-id="" tvg-name="TR - JUMBOTV DRAM HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/jumbo-tv.png" group-title="AS | TURKISH | SINEMA",TR - JUMBOTV DRAM HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/148664
+#EXTINF:-1 tvg-id="" tvg-name="TR - JUMBOTV COCUK HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/jumbo-tv.png" group-title="AS | TURKISH | SINEMA",TR - JUMBOTV COCUK HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/148665
+#EXTINF:-1 tvg-id="" tvg-name="TR - JUMBOTV BIYOGRAFI HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/jumbo-tv.png" group-title="AS | TURKISH | SINEMA",TR - JUMBOTV BIYOGRAFI HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/148666
+#EXTINF:-1 tvg-id="" tvg-name="TR - JUMBOTV BILIM-KURGU HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/jumbo-tv.png" group-title="AS | TURKISH | SINEMA",TR - JUMBOTV BILIM-KURGU HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/148667
+#EXTINF:-1 tvg-id="" tvg-name="TR - JUMBOTV AKSIYON HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/jumbo-tv.png" group-title="AS | TURKISH | SINEMA",TR - JUMBOTV AKSIYON HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/148668
+#EXTINF:-1 tvg-id="" tvg-name="##### TR - KEMAL SUNAL #####" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/TURKEY.png" group-title="AS | TURKISH | DIGER",##### TR - KEMAL SUNAL #####
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/65158
+#EXTINF:-1 tvg-id="" tvg-name="TR - KEMAL SUNAL TV" tvg-logo="http://logo.panel.cx/logo/TURKIYE/KEMALSUNALTV.png" group-title="AS | TURKISH | DIGER",TR - KEMAL SUNAL TV
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39565
+#EXTINF:-1 tvg-id="" tvg-name="##### TR - BELGESEL #####" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/TURKEY.png" group-title="AS | TURKISH | DIGER",##### TR - BELGESEL #####
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39721
+#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-name="TR - TRT BELGESEL HD PLUS" tvg-logo="http://logo.panel.cx/logo/TURKIYE/TRTBELGESELHDPLUS.png" group-title="AS | TURKISH | DIGER",TR - TRT BELGESEL HD PLUS
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39720
+#EXTINF:-1 tvg-id="" tvg-name="TR - TGRT BELGESEL" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/tgrteu.png" group-title="AS | TURKISH | DIGER",TR - TGRT BELGESEL
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39719
+#EXTINF:-1 tvg-id="animalplanet.tr" tvg-name="TR - ANIMAL PLANET HD" tvg-logo="http://logo.panel.cx/logo/AUSTRALIA/Animal_Planet.png" group-title="AS | TURKISH | DIGER",TR - ANIMAL PLANET HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39717
+#EXTINF:-1 tvg-id="discoverychannel.tr" tvg-name="TR - DISCOVERY CHANNEL HD PLUS" tvg-logo="http://logo.panel.cx/logo/AUSTRALIA/Discovery_Channel.png" group-title="AS | TURKISH | DIGER",TR - DISCOVERY CHANNEL HD PLUS
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39716
+#EXTINF:-1 tvg-id="discoveryscience.tr" tvg-name="TR - DISCOVERY SCIENCE HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/Discovery_Science.png" group-title="AS | TURKISH | DIGER",TR - DISCOVERY SCIENCE HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39715
+#EXTINF:-1 tvg-id="natgeo.tr" tvg-name="TR - NGC HD" tvg-logo="http://logo.panel.cx/logo/AUSTRALIA/national-geographic.png" group-title="AS | TURKISH | DIGER",TR - NGC HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39714
+#EXTINF:-1 tvg-id="natgeowild.tr" tvg-name="TR - NGC WILD HD PLUS" tvg-logo="http://logo.panel.cx/logo/AUSTRALIA/Nat_Geo_Wild.png" group-title="AS | TURKISH | DIGER",TR - NGC WILD HD PLUS
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39713
+#EXTINF:-1 tvg-id="historychannel.tr" tvg-name="TR - HISTORY CHANNEL HD" tvg-logo="http://logo.panel.cx/logo/AUSTRALIA/History.png" group-title="AS | TURKISH | DIGER",TR - HISTORY CHANNEL HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39710
+#EXTINF:-1 tvg-id="" tvg-name="TR - ANIMAUX" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/ANIMAUX.png" group-title="AS | TURKISH | DIGER",TR - ANIMAUX
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/195539
+#EXTINF:-1 tvg-id="beingurme.tr" tvg-name="TR - BEIN GÜRME HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/bein-gurme-1.png" group-title="AS | TURKISH | DIGER",TR - BEIN GÜRME HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39708
+#EXTINF:-1 tvg-id="beiniz.tr" tvg-name="TR - BEIN IZ HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/Bein_iz.png" group-title="AS | TURKISH | DIGER",TR - BEIN IZ HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/65138
+#EXTINF:-1 tvg-id="24kitchen.tr" tvg-name="TR - 24 KITCHEN HD" tvg-logo="http://logo.panel.cx/logo/TURKIYE/24Kitchen.png" group-title="AS | TURKISH | DIGER",TR - 24 KITCHEN HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/82324
+#EXTINF:-1 tvg-id="" tvg-name="TR - CHASSE & PECHE" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/CHASEEANDPECH.png" group-title="AS | TURKISH | DIGER",TR - CHASSE & PECHE
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/195541
+#EXTINF:-1 tvg-id="bbcearth.tr" tvg-name="TR - BBC EARTH HD" tvg-logo="http://logo.panel.cx/logo/TURKIYE/BBCEARTHHD.png" group-title="AS | TURKISH | DIGER",TR - BBC EARTH HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/82325
+#EXTINF:-1 tvg-id="bbcearth.tr" tvg-name="TR - BBC EARTH HD" tvg-logo="http://logo.panel.cx/logo/TURKIYE/BBCEARTHHD.png" group-title="AS | TURKISH | DIGER",TR - BBC EARTH HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/82341
+#EXTINF:-1 tvg-id="idx.tr" tvg-name="TR - ID TR HD" tvg-logo="http://logo.panel.cx/logo/TURKIYE/ID-InsightTV.png" group-title="AS | TURKISH | DIGER",TR - ID TR HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/82326
+#EXTINF:-1 tvg-id="davinci.tr" tvg-name="TR - DA VINCI HD" tvg-logo="http://logo.panel.cx/logo/TURKIYE/Da_Vinci.png" group-title="AS | TURKISH | DIGER",TR - DA VINCI HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/82327
+#EXTINF:-1 tvg-id="davinci.tr" tvg-name="TR - DA VINCI HD" tvg-logo="http://logo.panel.cx/logo/TURKIYE/Da_Vinci.png" group-title="AS | TURKISH | DIGER",TR - DA VINCI HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/82339
+#EXTINF:-1 tvg-id="viasathistorynature.tr" tvg-name="TR - VIASAT HISTORY HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/DISCOVERY-WORLD-HD-1.png" group-title="AS | TURKISH | DIGER",TR - VIASAT HISTORY HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/82328
+#EXTINF:-1 tvg-id="" tvg-name="TR - OUTDOOR SMART HD" tvg-logo="http://logo.panel.cx/logo/TURKIYE/OUTDOOR-HD.png" group-title="AS | TURKISH | DIGER",TR - OUTDOOR SMART HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/82336
+#EXTINF:-1 tvg-id="" tvg-name="TR - LOVE NATURE HD" tvg-logo="http://logo.panel.cx/logo/TURKIYE/LOVE-NATURE-HD.png" group-title="AS | TURKISH | DIGER",TR - LOVE NATURE HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/82331
+#EXTINF:-1 tvg-id="discoveryshowcase.tr" tvg-name="TR - DISCOVERY SHOWCASE HD" tvg-logo="http://logo.panel.cx/logo/TURKIYE/DISCOVERY-SHOWCASE-HD.png" group-title="AS | TURKISH | DIGER",TR - DISCOVERY SHOWCASE HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/82332
+#EXTINF:-1 tvg-id="discoveryscience.tr" tvg-name="TR - DISCOVERY SCIENCE EURO HD" tvg-logo="http://logo.panel.cx/logo/TURKIYE/DISCOVERY-SCIENCE%20EURO-HD.png" group-title="AS | TURKISH | DIGER",TR - DISCOVERY SCIENCE EURO HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/82333
+#EXTINF:-1 tvg-id="" tvg-name="TR - FAST FUN HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/fastandfunbox.png" group-title="AS | TURKISH | DIGER",TR - FAST FUN HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/82337
+#EXTINF:-1 tvg-id="" tvg-name="TR - D MAX HD" tvg-logo="http://logo.panel.cx/logo/TURKIYE/D-MAX-HD.png" group-title="AS | TURKISH | DIGER",TR - D MAX HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/82340
+#EXTINF:-1 tvg-id="" tvg-name="##### TR - COCUK #####" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/TURKEY.png" group-title="AS | TURKISH | DIGER",##### TR - COCUK #####
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39705
+#EXTINF:-1 tvg-id="trtcocuk.tr" tvg-name="TR - TRT ÇOCUK HD PLUS" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/trt-cocuk-1.png" group-title="AS | TURKISH | DIGER",TR - TRT ÇOCUK HD PLUS
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39703
+#EXTINF:-1 tvg-id="minikago.tr" tvg-name="TR - MINIKA GO" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/Minika_go.png" group-title="AS | TURKISH | DIGER",TR - MINIKA GO
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39701
+#EXTINF:-1 tvg-id="minikacocuk.tr" tvg-name="TR - MINIKA ÇOCUK" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/MinikaCOCUK.png" group-title="AS | TURKISH | DIGER",TR - MINIKA ÇOCUK
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39700
+#EXTINF:-1 tvg-id="" tvg-name="TR - NICK JR" tvg-logo="http://logo.panel.cx/logo/TURKIYE/NICKJR.png" group-title="AS | TURKISH | DIGER",TR - NICK JR
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39699
+#EXTINF:-1 tvg-id="" tvg-name="TR - NICKELODEON HD" tvg-logo="http://logo.panel.cx/logo/TURKIYE/NICKELODEONHD.png" group-title="AS | TURKISH | DIGER",TR - NICKELODEON HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39698
+#EXTINF:-1 tvg-id="disneychannel.tr" tvg-name="TR - DISNEY CHANNEL" tvg-logo="http://logo.panel.cx/logo/TURKIYE/DISNEYCHANNEL.png" group-title="AS | TURKISH | DIGER",TR - DISNEY CHANNEL
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39697
+#EXTINF:-1 tvg-id="cartoonnetwork.tr" tvg-name="TR - CARTOON NETWORK" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/CARTOONNETWORK.png" group-title="AS | TURKISH | DIGER",TR - CARTOON NETWORK
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39696
+#EXTINF:-1 tvg-id="" tvg-name="TR - BOOMERANG HD" tvg-logo="http://logo.panel.cx/logo/TURKIYE/BOOMERANG-HD.png" group-title="AS | TURKISH | DIGER",TR - BOOMERANG HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/82350
+#EXTINF:-1 tvg-id="babytv.tr" tvg-name="TR - BABY TV" tvg-logo="http://logo.panel.cx/logo/TURKIYE/BabyTV.png" group-title="AS | TURKISH | DIGER",TR - BABY TV
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/82351
+#EXTINF:-1 tvg-id="" tvg-name="TR - NILOYA TV" tvg-logo="http://logo.panel.cx/logo/TURKIYE/NILOYA-TV.png" group-title="AS | TURKISH | DIGER",TR - NILOYA TV
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/82353
+#EXTINF:-1 tvg-id="smartcocuk.tr" tvg-name="TR - SMART COCUK HD" tvg-logo="http://logo.panel.cx/logo/TURKIYE/SMARTCOCUK.png" group-title="AS | TURKISH | DIGER",TR - SMART COCUK HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/172775
+#EXTINF:-1 tvg-id="" tvg-name="##### TR - MUZIK #####" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/TURKEY.png" group-title="AS | TURKISH | DIGER",##### TR - MUZIK #####
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39695
+#EXTINF:-1 tvg-id="kraltv.tr" tvg-name="TR - KRAL TV" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/KRAL-POP-90.png" group-title="AS | TURKISH | DIGER",TR - KRAL TV
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39694
+#EXTINF:-1 tvg-id="kralpop.tr" tvg-name="TR - KRAL POP" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/KRAL-POP-90.png" group-title="AS | TURKISH | DIGER",TR - KRAL POP
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39693
+#EXTINF:-1 tvg-id="" tvg-name="TR - KRAL PERFORMANS TV HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/KRAL-POP-90.png" group-title="AS | TURKISH | DIGER",TR - KRAL PERFORMANS TV HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/65137
+#EXTINF:-1 tvg-id="powerturk.tr" tvg-name="TR - POWER TURK HD PLUS" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/Powerturk.png" group-title="AS | TURKISH | DIGER",TR - POWER TURK HD PLUS
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39692
+#EXTINF:-1 tvg-id="powerturk.tr" tvg-name="TR - POWER HD PLUS" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/POWERHDPLUS.png" group-title="AS | TURKISH | DIGER",TR - POWER HD PLUS
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39690
+#EXTINF:-1 tvg-id="dreamtv.tr" tvg-name="TR - DREAM TÜRK" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/dreamturktv.png" group-title="AS | TURKISH | DIGER",TR - DREAM TÜRK
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39691
+#EXTINF:-1 tvg-id="" tvg-name="TR - NR 1 HD PLUS" tvg-logo="http://logo.panel.cx/logo/TURKIYE/NR1HDPLUS.png" group-title="AS | TURKISH | DIGER",TR - NR 1 HD PLUS
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39687
+#EXTINF:-1 tvg-id="" tvg-name="TR - NR 1 TURK HD PLUS" tvg-logo="http://logo.panel.cx/logo/TURKIYE/NR1HDPLUS.png" group-title="AS | TURKISH | DIGER",TR - NR 1 TURK HD PLUS
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39688
+#EXTINF:-1 tvg-id="trtmuzik.tr" tvg-name="TR - TRT MUZIK HD PLUS" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/trt-muzik.png" group-title="AS | TURKISH | DIGER",TR - TRT MUZIK HD PLUS
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39725
+#EXTINF:-1 tvg-id="" tvg-name="TR - METROPOL TURKU ON7" tvg-logo="http://logo.panel.cx/logo/TURKIYE/METROPOL-TURK.png" group-title="AS | TURKISH | DIGER",TR - METROPOL TURKU ON7
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/84318
+#EXTINF:-1 tvg-id="" tvg-name="##### TR - YEREL #####" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/TURKEY.png" group-title="AS | TURKISH | DIGER",##### TR - YEREL #####
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39685
+#EXTINF:-1 tvg-id="trtdiyanet.tr" tvg-name="TR - TRT DIYANET" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/Diyanet_TV.png" group-title="AS | TURKISH | DIGER",TR - TRT DIYANET
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39726
+#EXTINF:-1 tvg-id="trtturk.tr" tvg-name="TR - TRT TÜRK" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/TRT_T%C3%BCrk.png" group-title="AS | TURKISH | DIGER",TR - TRT TÜRK
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39724
+#EXTINF:-1 tvg-id="trtavaz.tr" tvg-name="TR - TRT AVAZ HD PLUS" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/TRT_Avaz.png" group-title="AS | TURKISH | DIGER",TR - TRT AVAZ HD PLUS
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39723
+#EXTINF:-1 tvg-id="" tvg-name="TR - VATAN TV" tvg-logo="http://logo.panel.cx/logo/TURKIYE/VATANTV.png" group-title="AS | TURKISH | DIGER",TR - VATAN TV
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39682
+#EXTINF:-1 tvg-id="" tvg-name="TR - BENGU TURK" tvg-logo="http://logo.panel.cx/logo/TURKIYE/BENGUTURK.png" group-title="AS | TURKISH | DIGER",TR - BENGU TURK
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39681
+#EXTINF:-1 tvg-id="" tvg-name="TR - CEM TV" tvg-logo="http://logo.panel.cx/logo/TURKIYE/CEMTV.png" group-title="AS | TURKISH | DIGER",TR - CEM TV
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39676
+#EXTINF:-1 tvg-id="" tvg-name="TR - KON TV KONYA" tvg-logo="http://logo.panel.cx/logo/TURKIYE/KONTVKONYA.png" group-title="AS | TURKISH | DIGER",TR - KON TV KONYA
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39674
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="TR - KANAL 42 KONYA" tvg-logo="http://logo.panel.cx/logo/TURKIYE/KANAL42KONYA.png" group-title="AS | TURKISH | DIGER",TR - KANAL 42 KONYA
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39673
+#EXTINF:-1 tvg-id="" tvg-name="TR - UCAN KUS TV" tvg-logo="http://logo.panel.cx/logo/TURKIYE/UCANKUSTV.png" group-title="AS | TURKISH | DIGER",TR - UCAN KUS TV
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39672
+#EXTINF:-1 tvg-id="meltemtv.tr" tvg-name="TR - MELTEM TV" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/MELTEMTV.png" group-title="AS | TURKISH | DIGER",TR - MELTEM TV
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39668
+#EXTINF:-1 tvg-id="" tvg-name="TR - TV 4 HD PLUS" tvg-logo="http://logo.panel.cx/logo/TURKIYE/TV%204HDPLUS.png" group-title="AS | TURKISH | DIGER",TR - TV 4 HD PLUS
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39667
+#EXTINF:-1 tvg-id="" tvg-name="TR - TV 5" tvg-logo="http://logo.panel.cx/logo/TURKIYE/TV5.png" group-title="AS | TURKISH | DIGER",TR - TV 5
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39666
+#EXTINF:-1 tvg-id="" tvg-name="TR - AKILLI TV" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/TVAADANA.png" group-title="AS | TURKISH | DIGER",TR - AKILLI TV
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39658
+#EXTINF:-1 tvg-id="" tvg-name="TR - ARTI TV" tvg-logo="http://logo.panel.cx/logo/TURKIYE/ARTITV.png" group-title="AS | TURKISH | DIGER",TR - ARTI TV
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39657
+#EXTINF:-1 tvg-id="" tvg-name="TR - KUDUS TV" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/KUDUSTV.png" group-title="AS | TURKISH | DIGER",TR - KUDUS TV
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39655
+#EXTINF:-1 tvg-id="" tvg-name="TR - MILYON TV" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/MILYONTV.png" group-title="AS | TURKISH | DIGER",TR - MILYON TV
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39653
+#EXTINF:-1 tvg-id="" tvg-name="TR - TV KAYSERI" tvg-logo="http://logo.panel.cx/logo/TURKIYE/TVKAYSERI.png" group-title="AS | TURKISH | DIGER",TR - TV KAYSERI
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39652
+#EXTINF:-1 tvg-id="" tvg-name="TR - TV 1 KAYSERI" tvg-logo="http://logo.panel.cx/logo/TURKIYE/TV%201KAYSERI.png" group-title="AS | TURKISH | DIGER",TR - TV 1 KAYSERI
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39651
+#EXTINF:-1 tvg-id="" tvg-name="TR - MAVI KARADENIZ" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/mavi.png" group-title="AS | TURKISH | DIGER",TR - MAVI KARADENIZ
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39649
+#EXTINF:-1 tvg-id="" tvg-name="TR - ALTAS TV ORDU" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/ALTASTVORDU.png" group-title="AS | TURKISH | DIGER",TR - ALTAS TV ORDU
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39648
+#EXTINF:-1 tvg-id="" tvg-name="TR - ÇAY TV RIZE" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/kay.png" group-title="AS | TURKISH | DIGER",TR - ÇAY TV RIZE
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39644
+#EXTINF:-1 tvg-id="" tvg-name="TR - DRT DENIZLI TV" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/drt.png" group-title="AS | TURKISH | DIGER",TR - DRT DENIZLI TV
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39642
+#EXTINF:-1 tvg-id="" tvg-name="TR - REHBER TV" tvg-logo="http://logo.panel.cx/logo/TURKIYE/REHBERTV.png" group-title="AS | TURKISH | DIGER",TR - REHBER TV
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39641
+#EXTINF:-1 tvg-id="" tvg-name="TR - KANAL FIRAT ELAZIG" tvg-logo="http://logo.panel.cx/logo/TURKIYE/KANALFIRATELAZIG.png" group-title="AS | TURKISH | DIGER",TR - KANAL FIRAT ELAZIG
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39640
+#EXTINF:-1 tvg-id="" tvg-name="TR - KANAL URFA" tvg-logo="http://logo.panel.cx/logo/TURKIYE/KANALURFA.png" group-title="AS | TURKISH | DIGER",TR - KANAL URFA
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39639
+#EXTINF:-1 tvg-id="" tvg-name="TR - PAMUKKALE TV" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/pamukkale-tv.png" group-title="AS | TURKISH | DIGER",TR - PAMUKKALE TV
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39637
+#EXTINF:-1 tvg-id="" tvg-name="TR - KANAL 3 ISPARTA" tvg-logo="http://logo.panel.cx/logo/TURKIYE/KANAL3ISPARTA.png" group-title="AS | TURKISH | DIGER",TR - KANAL 3 ISPARTA
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39635
+#EXTINF:-1 tvg-id="" tvg-name="TR - KANAL V ANTALYA" tvg-logo="http://logo.panel.cx/logo/TURKIYE/KANALVANTALYA.png" group-title="AS | TURKISH | DIGER",TR - KANAL V ANTALYA
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39634
+#EXTINF:-1 tvg-id="" tvg-name="TR - KOZA TV ADANA" tvg-logo="http://logo.panel.cx/logo/TURKIYE/KOZATVADANA.png" group-title="AS | TURKISH | DIGER",TR - KOZA TV ADANA
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39633
+#EXTINF:-1 tvg-id="" tvg-name="TR - KANAL 58 SIVAS" tvg-logo="http://logo.panel.cx/logo/TURKIYE/KANAL58SIVAS.png" group-title="AS | TURKISH | DIGER",TR - KANAL 58 SIVAS
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39630
+#EXTINF:-1 tvg-id="" tvg-name="TR - TURKMENELI TV HD PLUS" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/turkmenelitvhdplus.png" group-title="AS | TURKISH | DIGER",TR - TURKMENELI TV HD PLUS
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39628
+#EXTINF:-1 tvg-id="" tvg-name="TR - TEK RUMELI TV" tvg-logo="http://logo.panel.cx/logo/TURKIYE/TEKRUMELITV.png" group-title="AS | TURKISH | DIGER",TR - TEK RUMELI TV
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39670
+#EXTINF:-1 tvg-id="" tvg-name="TR - GTV TV ŞANLIURFA" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/GTV-TV-SANLIURFA.png" group-title="AS | TURKISH | DIGER",TR - GTV TV ŞANLIURFA
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/65132
+#EXTINF:-1 tvg-id="" tvg-name="TR - KENTTÜRK TV KAYSERİ" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/kentturk.png" group-title="AS | TURKISH | DIGER",TR - KENTTÜRK TV KAYSERİ
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/65131
+#EXTINF:-1 tvg-id="" tvg-name="TR - TVDEN AYDIN" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/ciftci-tv.png" group-title="AS | TURKISH | DIGER",TR - TVDEN AYDIN
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/65130
+#EXTINF:-1 tvg-id="" tvg-name="TR - TVO" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/tariturk.png" group-title="AS | TURKISH | DIGER",TR - TVO
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/65129
+#EXTINF:-1 tvg-id="" tvg-name="TR - KANAL 32 ISPARTA HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/KANAL-32-ISPARTA-HD-PLUS.png" group-title="AS | TURKISH | DIGER",TR - KANAL 32 ISPARTA HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/65128
+#EXTINF:-1 tvg-id="" tvg-name="TR - BRT 1 HD" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/BRT1.png" group-title="AS | TURKISH | DIGER",TR - BRT 1 HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39626
+#EXTINF:-1 tvg-id="" tvg-name="TR - BRT 2" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/BRT2.png" group-title="AS | TURKISH | DIGER",TR - BRT 2
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39625
+#EXTINF:-1 tvg-id="" tvg-name="TR - KIBRIS TV" tvg-logo="http://logo.panel.cx/logo/TURKIYE/KIBRISTV.png" group-title="AS | TURKISH | DIGER",TR - KIBRIS TV
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39624
+#EXTINF:-1 tvg-id="" tvg-name="TR - KIBRIS ADA TV" tvg-logo="http://logo.panel.cx/logo/TURKIYE/KIBRISADATV.png" group-title="AS | TURKISH | DIGER",TR - KIBRIS ADA TV
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39623
+#EXTINF:-1 tvg-id="" tvg-name="TR - KANAL T KIBRIS" tvg-logo="http://logo.panel.cx/logo/TURKIYE/KANALTKIBRIS.png" group-title="AS | TURKISH | DIGER",TR - KANAL T KIBRIS
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39621
+#EXTINF:-1 tvg-id="" tvg-name="TR - KIBRIS GENC TV" tvg-logo="http://logo.panel.cx/logo/TURKIYE/KIBRISGENCTV.png" group-title="AS | TURKISH | DIGER",TR - KIBRIS GENC TV
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39620
+#EXTINF:-1 tvg-id="" tvg-name="TR - LALEGUL TV" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/Kanal_T.png" group-title="AS | TURKISH | DIGER",TR - LALEGUL TV
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39613
+#EXTINF:-1 tvg-id="semerkandtv.tr" tvg-name="TR - SEMERKAND TV HD" tvg-logo="http://logo.panel.cx/logo/TURKIYE/SEMERKANDTVHDPLUS.png" group-title="AS | TURKISH | DIGER",TR - SEMERKAND TV HD
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39617
+#EXTINF:-1 tvg-id="dosttv.tr" tvg-name="TR - DOST TV" tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/DOSTTV.png" group-title="AS | TURKISH | DIGER",TR - DOST TV
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39618
+#EXTINF:-1 tvg-id="" tvg-name="TR - AL QURAN TV" tvg-logo="http://logo.panel.cx/logo/TURKIYE/ALQURANTV.png" group-title="AS | TURKISH | DIGER",TR - AL QURAN TV
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39616
+#EXTINF:-1 tvg-id="" tvg-name="TR - KABE TV" tvg-logo="http://logo.panel.cx/logo/TURKIYE/KABETV.png" group-title="AS | TURKISH | DIGER",TR - KABE TV
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39615
+#EXTINF:-1 tvg-id="" tvg-name="TR - KANAL T" tvg-logo="http://logo.panel.cx/logo/TURKIYE/KANALT.png" group-title="AS | TURKISH | DIGER",TR - KANAL T
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/39664
+#EXTINF:-1 tvg-id="trtebatvortaokul.tr" tvg-name="TR - TRT EBA TV HD ORTAOKUL ◉ " tvg-logo="http://logo.panel.cx/logo/TURKIYE/TRT-EBA-TV-HD.png" group-title="AS | TURKISH | ULUSAL",TR - TRT EBA TV HD ORTAOKUL ◉ 
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/83220
+#EXTINF:-1 tvg-id="EPG-TV" tvg-name="TR - TRT EBA TV HD LISE ◉ " tvg-logo="http://logo.panel.cx/logo/TURKIYE/TRT-EBA-TV-HD.png" group-title="AS | TURKISH | ULUSAL",TR - TRT EBA TV HD LISE ◉ 
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/83221
+#EXTINF:-1 tvg-id="trtebatvilkokul.tr" tvg-name="TR - TRT EBA TV HD ILKOKUL ◉ " tvg-logo="http://logo.panel.cx/logo/TURKIYE/TRT-EBA-TV-HD.png" group-title="AS | TURKISH | ULUSAL",TR - TRT EBA TV HD ILKOKUL ◉ 
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/83222
+#EXTINF:-1 tvg-id="" tvg-name="TR - YOL TV " tvg-logo="http://logo.panel.cx/logo/ASIA/TURKEY/yol.png" group-title="AS | TURKISH | DIGER",TR - YOL TV 
+http://dragoniptvpro.club:80/onurruno123/CD95C44CCC64887/73047
